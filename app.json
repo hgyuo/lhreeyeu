@@ -1,7 +1,7 @@
 {
-    "name": "T",
-    "description": "T",
-    "keywords": ["T"],
+    "name": "y",
+    "description": "y",
+    "keywords": ["y"],
     "env": {
         "AUUID": {
             "description": "UUID",
@@ -9,7 +9,7 @@
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面",
-            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+            "value": "https://github.com/StartBootstrap/startbootstrap-new-age/archive/master.zip"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式",
